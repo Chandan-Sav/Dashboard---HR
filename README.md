@@ -92,7 +92,7 @@ Following inferences can be drawn from the dashboard;
  
  1.3) 44 employees by Research Scientist.
 
- 1.3) 33 employees by Sales Representative. 
+ 1.4) 33 employees by Sales Representative. 
          thus, maximum employees attrition by Job Role is from Laboratory Technician.
  
  ### Age Group
