@@ -57,7 +57,7 @@ for creating new column following DAX expression was written;
         
         SUM('HR_Analytics'[Attrition Count] / 'HR_Analytics'[Employee Count])
         
-Snap of new calculated column ,
+Snap of new calculated field ,
 
 ![Snap_1](https://github.com/Chandan-Sav/Dashboard---HR/assets/121309914/5f41fa69-4566-4e31-8ec1-dbbe9f8be323)
 
