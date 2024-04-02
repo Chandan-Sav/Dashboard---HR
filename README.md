@@ -1,13 +1,13 @@
 
 # HR Analytics Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/a7Spg7PfKT?ctid=3f66430c-920e-49dc-9dd6-8223afea3b81&pbi_source=linkShare
+### [1] Dashboard Link : https://app.powerbi.com/links/a7Spg7PfKT?ctid=3f66430c-920e-49dc-9dd6-8223afea3b81&pbi_source=linkShare
 
-## Problem Statement
+## [2] Problem Statement
 
 The document discusses employee attrition, its causes, and ways for companies to reduce it. It defines attrition as the reduction in employees due to reasons like resignation, retirement, or death. Some of the major reasons employees leave jobs are lack of career growth opportunities, poor work environment, low pay, and work-life imbalance. The document suggests companies provide flexible work, good benefits, training, and a supportive culture to decrease voluntary attrition it.
 
-## Chart used 
+## [3] Chart used 
 (a) Card :
           It was used to display values like 'Count of Emp','Attrition','Attrition Rate','Avg Age','Avg Salary','Avg Years'. 
 
@@ -35,7 +35,7 @@ The document discusses employee attrition, its causes, and ways for companies to
   (i) Stacked Bar Chart :
         This visual was used to show 'Attrition on Job Roles'.
 
-### Steps followed 
+### [4] Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
@@ -76,15 +76,15 @@ Snap of new calculated field ,
  
 ![Dashboard_upload](https://github.com/Chandan-Sav/Dashboard---HR/assets/121309914/69454b5d-6c2c-414a-a938-d07f57a007f5)
 
-# Insights
+# [5] Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 Following inferences can be drawn from the dashboard;
 
- ### [4] Some other insights
+ ### [6] Some other insights
  
- ### Job Roles
+ #### Job Roles
  
  1.1) 60 employees by Laboratory Technician.
  
@@ -93,9 +93,9 @@ Following inferences can be drawn from the dashboard;
  1.3) 44 employees by Research Scientist.
 
  1.4) 33 employees by Sales Representative. 
-         thus, maximum employees attrition by Job Role is from Laboratory Technician.
+         Thus, maximum employees attrition by Job Role is from Laboratory Technician.
  
- ### Age Group
+ #### Age Group
  
  2.1)  43 employees belong to '18-25' age group.
  
@@ -107,9 +107,9 @@ Following inferences can be drawn from the dashboard;
 
  2.5)  8 employees belong to '55+' age group.
  
-         thus, maximum employees attrition belong to '26-35' age group.
+         Thus, maximum employees attrition belong to '26-35' age group.
          
-### Education
+#### Education
 
  3.1)  38.4% employees belong to 'Life Science'  group.
  
@@ -121,10 +121,10 @@ Following inferences can be drawn from the dashboard;
 
  3.5)  4.8% employees belong to 'Other' group.
  
-         thus, maximum employees attrition belong to 'Life Science' group.
+         Thus, maximum employees attrition belong to 'Life Science' group.
          
 
-### Salary
+#### Salary
 
  4.1)  2894697 belong to 'upto 5k'  group.
  
@@ -134,6 +134,6 @@ Following inferences can be drawn from the dashboard;
  
  4.4)  1697418 belong to '15k +' group.
  
-         thus, maximum employees attrition belong to '5k - 10k' group.
+         Thus, maximum employees attrition belong to '5k - 10k' group.
 
-        thus, more customers have travel type 'Business'.
+        Thus, more customers have travel type 'Business'.
