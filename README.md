@@ -3,11 +3,11 @@
 
 ### [1] Dashboard Link : https://app.powerbi.com/links/a7Spg7PfKT?ctid=3f66430c-920e-49dc-9dd6-8223afea3b81&pbi_source=linkShare
 
-## [2] Problem Statement
+### [2] Problem Statement
 
 The document discusses employee attrition, its causes, and ways for companies to reduce it. It defines attrition as the reduction in employees due to reasons like resignation, retirement, or death. Some of the major reasons employees leave jobs are lack of career growth opportunities, poor work environment, low pay, and work-life imbalance. The document suggests companies provide flexible work, good benefits, training, and a supportive culture to decrease voluntary attrition it.
 
-## [3] Chart used 
+### [3] Chart used 
 (a) Card :
           It was used to display values like 'Count of Emp','Attrition','Attrition Rate','Avg Age','Avg Salary','Avg Years'. 
 
@@ -76,7 +76,7 @@ Snap of new calculated field ,
  
 ![Dashboard_upload](https://github.com/Chandan-Sav/Dashboard---HR/assets/121309914/69454b5d-6c2c-414a-a938-d07f57a007f5)
 
-# [5] Insights
+### [5] Insights
 
 A single page report was created on Power BI Desktop & it was then published to Power BI Service.
 
